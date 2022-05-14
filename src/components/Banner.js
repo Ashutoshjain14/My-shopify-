@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import classes from "./Banner.module.css";
 import Button from "./Button";
 
+//input type email gives little authentication
 function Banner() {
   return (
     <Fragment>
