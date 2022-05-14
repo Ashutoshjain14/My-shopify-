@@ -3,6 +3,8 @@ import Button from "./Button";
 import classes from "./Header.module.css";
 import { AiOutlineDown } from "react-icons/ai";
 
+//used react icons library for the dropdown arrow
+
 function Header() {
   return (
     <Fragment>
