@@ -5,6 +5,7 @@ import { Fragment } from "react";
 
 function App() {
   <Fragment>
+    <h1>hello world</h1>
     <Header />
     <Banner />
   </Fragment>;
